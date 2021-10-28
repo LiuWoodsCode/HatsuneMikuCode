@@ -1,0 +1,3 @@
+- Hello, I'm Hatsune Miku.
+- I mostly fork source code and do small programing projects.
+- You can reach me at hiltonhotelhelp@gmail.com.
